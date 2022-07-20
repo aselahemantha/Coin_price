@@ -31,7 +31,7 @@ const List<String> cryptoList = [
   'LTC',
 ];
 
-const String apiKey = 'BE22FF0C-43D4-46B9-9415-4050CBA15FFBl';
+const String apiKey = '***';
 const String coinAPIURL = 'https://rest.coinapi.io/v1/exchangerate/';
 
 class CoinData {
